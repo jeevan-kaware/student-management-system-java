@@ -52,7 +52,7 @@ CREATE TABLE employee (
     emp_salary DOUBLE PRECISION NOT NULL,
     department VARCHAR(50) NOT NULL
 );
-
+```
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #HR Management System
