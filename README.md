@@ -52,3 +52,21 @@ CREATE TABLE employee (
     emp_salary DOUBLE PRECISION NOT NULL,
     department VARCHAR(50) NOT NULL
 );
+HR Management System
+
+A console-based HR management application built using Java, JDBC and PostgreSQL.
+
+Features
+- Add Department
+- Add Employee
+- View All Employees
+- Department Wise Employees
+- Highest Salary Employee
+- Search Employee
+- Update Employee
+- Delete Employee
+
+Technologies
+- Java
+- JDBC
+- PostgreSQL
