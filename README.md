@@ -53,13 +53,9 @@ CREATE TABLE employee (
     department VARCHAR(50) NOT NULL
 );
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-HR Management System
+#HR Management System
 
 A console-based HR management application built using Java, JDBC and PostgreSQL.
 
