@@ -1,18 +1,34 @@
-# student-management-system-java
-Student Management System built using Core Java and ArrayList. This console application allows adding, viewing, updating and deleting student records.
-# Student Management System (Core Java)
+# Student Management System
 
-This is a console based project built using Core Java.
+A console-based Student Management System built using Core Java and ArrayList.
 
-Features:
-- Add Student
-- View Student
-- Update Student
-- Delete Student
+## Features
 
-Technologies Used:
-- Java
-- ArrayList
-- OOP
-- Console Application
+* Add Student
+* View Students
+* Update Student
+* Delete Student
 
+## Technologies Used
+
+* Java
+* ArrayList
+* Object-Oriented Programming (OOP)
+
+## Project Type
+
+Console Application
+
+## How to Run
+
+1. Clone the repository
+2. Open the project in IntelliJ IDEA or Eclipse
+3. Run `StudentManagementSystem.java`
+
+## Learning Outcomes
+
+* Java Basics
+* OOP Concepts
+* Collections (ArrayList)
+* CRUD Operations
+* Console-Based Application Development
