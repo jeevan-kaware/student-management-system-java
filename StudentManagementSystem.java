@@ -150,6 +150,7 @@ public class StudentManagementSystem {
                 default:
                     System.out.println("Invalid choice!");
             }
-        }
+        }   
+        sc.close();
     }
 }
