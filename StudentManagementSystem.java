@@ -1,4 +1,4 @@
-package Projects;
+package com.jeevan.student;
 
 import java.util.ArrayList;
 import java.util.Scanner;
